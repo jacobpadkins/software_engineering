@@ -523,7 +523,7 @@ body {
 /* ( a ) Story of Glory */
 
 .profile-page .image-container {
-    background: url(../img/about_us_featured.png);
+    background: url(../img/billion.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -641,7 +641,7 @@ body {
 /* ( a ) Portfolio Section */
 
 .portfolio-page .image-container {
-    background: url(../img/portfolio_featured.png);
+    background: url(../img/dhall.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -837,7 +837,7 @@ body {
                     =======================================*/
 
 .service-page .image-container {
-    background: url(../img/dhall.jpg);
+    background: url(../img/class.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -1132,7 +1132,7 @@ body {
 
 
 .contact-page .image-container {
-    background: url(../img/contact_featured.png);
+    background: url(../img/firework.jpg);
     background-size: cover;
     background-position: bottom;
 }
