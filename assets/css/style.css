@@ -62,7 +62,42 @@
                     /*-----------------------------------
                        0 ) Custom Stuff
                       -----------------------------------*/
+#student_center_wrapper {
+  margin-top: 3em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
 
+#status_div {
+  /*width: 925px*/
+}
+
+#status_col {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color: #354CA1;
+  box-shadow: 0 0 15px black;
+}
+
+#status_div h6 {
+  color: white;
+}
+
+#columns_div {
+  padding-top: 1em;
+}
+
+#columns_div h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+#academics_col, #finances_col, #personal_col {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 0 15px black;
+  margin-right: 10px;
+}
 
                     /*-----------------------------------
                        1 ) Font Import From Google Fonts
