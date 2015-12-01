@@ -1,2 +1,3 @@
-# boots4
-World's first template made by Bootstrap 4.
+# my.SMU.edu Makeover
+
+A GUI makeover of my.SMU
